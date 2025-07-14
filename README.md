@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Idade-23%20anos-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Curso-ADS%20(último%20semestre)-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cargo-Gestor%20de%20Tráfego-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Curso-ADS%20(último%20semestre)-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cargo-Gestor%20de%20Tráfego-red?style=flat-square" />
 </p>
 
 ---
