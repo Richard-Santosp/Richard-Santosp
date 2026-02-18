@@ -10,9 +10,11 @@
 
 ### 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e dados!  
-Tenho 24 anos, estou no último semestre de **Análise e Desenvolvimento de Sistemas** e trabalho como **Gestor de Tráfego Pago**.  
-Além disso, estudo **análise de dados**, que é minha principal escolha para uma pós-graduação.
+Sou Gestor de Tráfego Pago com forte orientação a dados e foco em performance. Sou formado em Análise e Desenvolvimento de Sistemas, o que me proporciona uma base sólida em tecnologia, lógica, estrutura de dados e visão analítica aplicada a negócios digitais.
+
+Atuo no planejamento, execução e otimização de campanhas pagas, sempre guiado por métricas, testes e análise de performance. Minha principal área de interesse é Análise de Dados, campo no qual direciono meus estudos e pretendo aprofundar por meio de uma pós-graduação.
+
+Tenho como objetivo integrar tecnologia, dados e marketing para transformar informações em decisões estratégicas, previsíveis e escaláveis.
 
 ### 🧠 Conhecimentos e Interesses
 
