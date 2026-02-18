@@ -11,7 +11,7 @@
 ### 🚀 Sobre mim
 
 Sou apaixonado por tecnologia e dados!  
-Tenho 23 anos, estou no último semestre de **Análise e Desenvolvimento de Sistemas** e trabalho como **Gestor de Tráfego Pago**.  
+Tenho 24 anos, estou no último semestre de **Análise e Desenvolvimento de Sistemas** e trabalho como **Gestor de Tráfego Pago**.  
 Além disso, estudo **análise de dados**, que é minha principal escolha para uma pós-graduação.
 
 ### 🧠 Conhecimentos e Interesses
