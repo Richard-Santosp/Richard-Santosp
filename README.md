@@ -20,7 +20,7 @@ Tenho como objetivo integrar tecnologia, dados e marketing para transformar info
 
 - 💻 Programação com **Python**, **JavaScript** e tecnologias **web**
 - 📊 Manipulação de dados com **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Plotly**
-- 📈 Criação de dashboards com **Power BI**
+- 📈 Criação de dashboards com **Power BI** e **Looker Studio**
 - 🧪 Análise exploratória de dados (EDA) e limpeza de dados
 - ⚙️ Automatização de processos e scripts personalizados
 
